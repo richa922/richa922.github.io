@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-You can use the [editor on GitHub](https://github.com/richa922/richa922.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <title>shashankgupta12.github.io by shashankgupta12</title>
+  </head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <body>
 
-### Markdown
+    <header>
+      <div class="container">
+        <h1>Shashank's_lair</h1>
+        <h2></h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <section id="downloads">
+          <a href="https://github.com/shashankgupta12" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
 
-```markdown
-Syntax highlighted code block
+    <div class="container">
+      <section id="main_content">
+        <h3>
+<a id="welcome-to-my-blog" class="anchor" href="#welcome-to-my-blog" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to my blog.</h3>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richa922/richa922.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>
+  Hello guys, my blog will be up and running in some time, till then have a look at my <a href="Shashank_Resume.pdf">resume</a>.
+</p>
+  </body>
+</html>
